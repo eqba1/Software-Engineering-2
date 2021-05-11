@@ -7,7 +7,7 @@ Spring 2021 at University of Kurdistan.
 
 By now, you've probably heard the buzz around Docker. It's fundamentally changed the development process and been adopted by software teams of all sizes, and for good reason: Docker makes it considerably easier to create, deploy, and run applications with the use of containers.
 Docker is here to stay, and is becoming one of the most in-demand technologies on the market. Mastering it now will help you produce better software, level up your career, and stand out from the crowd. Get started today.
-* [My Slide (Persian)](https://www.github.com/eqba1/Software-Engineering-2/Presentation/Docker.pdf)
+* [My Slide (Persian)](https://github.com/eqba1/Software-Engineering-2/raw/main/Presentation/Docker.pdf)
 
 ### Usefull Link to Learn Docker
 * [Docker Cheat Sheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/docker.sh)
@@ -41,5 +41,5 @@ this project implemented with below Framework:
 
 ## Exam
 Software Engineering Exam 
-* [Spring 2017](https://www.github.com/eqba1/Software-Engineering-2/Exam/SEFinalExm-UoK96.pdf)
+* [Spring 2017](https://github.com/eqba1/Software-Engineering-2/raw/main/Exam/SEFinalExm-UoK96.pdf)
 * [Spring 2021](#)
